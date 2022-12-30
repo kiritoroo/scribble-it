@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: "Urbanist", sans-serif;
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+  background: #ddd;
+  width: 16px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #404040;
+  border: 5px solid #ddd;
+}
+
+body {
+  line-height: 1em;
+  font-size: clamp(0.5rem, 1.5vw, 1rem)
+}
