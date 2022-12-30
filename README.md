@@ -11,19 +11,19 @@
 </p>
 
 # About
-This is AI Project for [Trang Nguyen](https://github.com/TrangNguyen331/scribble-it)
+This is AI Project for [Trang Nguyen](https://github.com/TrangNguyen331)
 
 # Features
 ### Characters Handwriting
-[Characters Handwriting](https://github.com/kiritoroo/scribble-it/blob/master/capture/characters-handwriting.png)
+<img src="https://github.com/kiritoroo/scribble-it/blob/master/capture/characters-handwriting.png" width="1000"></img>
 
 
 ### Digits Handwriting
-[Digits Handwriting](https://github.com/kiritoroo/scribble-it/blob/master/capture/digits-handwriting.png)
+<img src="https://github.com/kiritoroo/scribble-it/blob/master/capture/digits-handwriting.png" width="1000"></img>
 
 
 ### WebGL Intro
-[WebGL Intro](https://github.com/kiritoroo/scribble-it/blob/master/capture/webgl-intro.png)
+<img src="https://github.com/kiritoroo/scribble-it/blob/master/capture/webgl-intro.png" width="1000"></img>
 
 # Author 
 - > [Le Trung](https://github.com/kiritoroo/scribble-it)
